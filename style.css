@@ -1,0 +1,151 @@
+.navbar-brand{
+    margin-left: -13px;
+}
+.navbar-nav{
+    margin-left: 40px;
+    word-spacing: 1px;
+}
+#navh{
+    background-color: rgb(89, 182, 151) !important;
+}
+.d-block {
+    height: 500px;
+    width: 900px;
+}
+.intro{
+    text-align: center;
+    background-color: rgb(89, 182, 151);
+}
+.sale{
+    min-width: 100px;
+    max-width: 3000px;
+    min-height: 30px;
+    height: 700px;
+    width: 1300px;
+}
+.eid{
+    text-align: center;
+    background-color: rgb(89, 182, 151);
+    font-size: 50px;
+}
+.eids{
+    text-align: center;
+    color: rgb(60, 185, 144);
+
+}
+.slider{
+    min-width: 100px;
+    max-width: 3000px;
+    min-height: 30px;
+    max-height: 600px;
+    height: 500px;
+    width: 1200px;
+}
+.newcoll{
+    text-align: center;
+   
+    text-size-adjust: 700px;
+    font-size: 35px;
+    background-color: rgb(89, 182, 151);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card-img-top{
+    width: 350px;
+    height: 350px;
+
+}
+#rom{
+    justify-content: space-around;
+    
+}
+#card1{
+    margin-top: 20px;
+
+}
+#card2{
+    margin-top: 20px;
+}
+#card3{
+    margin-top: 20px;
+}  
+#card4{
+    margin-top: 20px;
+}
+.btn-primary{
+    width: 100%;
+    background-color: rgb(89, 182, 151) !important;
+    border: rgb(89, 182, 151) !important;
+}
+.card{
+    margin-top: 20px;
+}
+.footer{
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+}
+.footer h1 {
+    font-size: 16px;
+    margin: 25px 0;
+}
+.footer p {
+    font-size: 12px;
+}
+.sslider{
+    margin-left: -55px;
+}
+#facebook{
+    margin-right: 12px;
+}
+#youtube{
+    margin-right: 17px;
+}
+#instagram{
+    margin-right: 8px;
+}
+#twitter{
+    margin-right: 21px;
+}
+.index-heading{
+    text-align: center; 
+    text-size-adjust: 700px;
+    font-size: 35px;
+    background-color: rgb(89, 182, 151);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+.underline{
+    color: black;
+}
+#button{
+ margin-bottom: 20px;   
+ margin-top: 30px;
+}
+
+.border-success{
+    box-shadow: 2px 4px 5px rgb(89, 182, 151);
+    width: 600px;
+    height: 200px;
+    padding: 80px;
+    margin-left: 310px;
+    color: rgb(89, 182, 151);
+
+}
+.imga{
+    width: 1000px;
+    margin-left: 150px;
+    
+   
+}
+.go{
+    text-align: center;
+}
+.img{
+    margin: 200px;
+    margin-left: 250px;
+}
+.order{
+    margin-left: 330px;
+    margin-top: -150px;
+ 
+}
